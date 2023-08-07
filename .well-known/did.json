@@ -8,12 +8,10 @@
 		"id": "did:web:credebl.github.io#key-1",
 		"type": "Ed25519VerificationKey2018",
 		"controller": "did:web:credebl.github.io",
-		"publicKeyBase58": "6oix3k8dnF5HUQhnKV1FiJc7Jb5rPGMqXprJaMSY6H2z"
+		"publicKeyBase58": "6VYSoraki5Dmm8eKaH97Yh3taPVDms58KqK8UezQD9aq"
 	}],
 	"authentication": [
 		"did:web:credebl.github.io#key-1"
 	],
-	"assertionMethod": [
-		"did:web:credebl.github.io#key-1"
-	]
+	"assertionMethod": ["did:web:credebl.github.io#key-1"]
 }
